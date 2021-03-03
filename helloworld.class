@@ -1,0 +1,7 @@
+compilation: javac helloworld.java
+execution: java helloworld
+
+prints "hello, world". 
+
+% java helloworld
+hello, world
